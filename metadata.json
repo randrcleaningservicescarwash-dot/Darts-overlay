@@ -1,0 +1,5 @@
+{
+  "name": "Professional Darts OBS Overlay",
+  "description": "A customizable, broadcast-quality darts scoreboard overlay for OBS with integrated score calculator and checkout suggestions.",
+  "requestFramePermissions": []
+}
